@@ -8,14 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "bcrypt-nodejs": "0.0.3",
-=======
-=======
->>>>>>> f12f33d91c4964ff67582c03062c2d17d35fb290
-    "bcrypt-nodejs": "^0.0.3",
->>>>>>> 0955a4eb734c93baf8826e9a7f6ed13ca9cec5f4
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
